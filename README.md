@@ -4,7 +4,7 @@
 
 About me :
 
-   <li>Languages and tools : </li>
+   <li>🤖 Languages and tools : </li>
   
   <code><img heigth=20px width=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
   <code><img heigth=20px width=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code>
