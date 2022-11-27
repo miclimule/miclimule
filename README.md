@@ -1,5 +1,5 @@
 
-<h1 align = "center">Hi! :wave: nice to see you here! :heart:</h1>
+<h1 align = "center">Hi! I'm mickael :wave:</h1>
 <h3 align = "center"> tech otaku save the world </h3>
 
 <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=miclimule&layout=compact&theme=dracula&hide=css,tcl,html,makefile,javascript,D"></img>
