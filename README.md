@@ -2,7 +2,7 @@
 <h1 align = "center">Hi! I'm mickael :wave:</h1>
 <h3 align = "center"> tech otaku save the world </h3>
 
-About me :
+About me : 
 
    <li>🤖 Languages and tools :</li>
   
