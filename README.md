@@ -13,5 +13,3 @@ About me :
   <code><img heigth=20px width=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miclimule&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
