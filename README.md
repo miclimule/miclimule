@@ -4,6 +4,7 @@
 
 About me : 
 
+   <li>Application developer</li>
    <li>🤖 Languages and tools :</li>
   <br>
   <code><img heigth=20px width=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
